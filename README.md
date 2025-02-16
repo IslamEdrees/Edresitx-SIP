@@ -25,4 +25,5 @@ Choose option [1-9]:
 3. Monitor Call Quality
 4. Back to Main Menu
 Choose option [1-4]:
+![image](https://github.com/user-attachments/assets/8a3b3e1f-df31-4dac-b49a-28746124e2b7)
 
